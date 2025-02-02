@@ -1,0 +1,9 @@
+# DS
+pandas
+numpy
+scikit-learn
+marimo
+matplotlib
+seaborn
+altair
+# Clustering
